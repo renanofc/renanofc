@@ -1,7 +1,7 @@
 ### Hello, I'm Renan Moreira! 👋
 
 
-💼 Developer
+
 
 <div align="center">
   <a href="https://github.com/renanofc">
