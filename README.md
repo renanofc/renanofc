@@ -1,9 +1,7 @@
-### Hi there 👋
+### Hello, I'm Renan Moreira! 👋
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 😄 Pronouns: ...
+💼 Developer
 
 <div align="center">
   <a href="https://github.com/renanofc">
