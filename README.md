@@ -1,5 +1,6 @@
-### Hello, I'm Renan Moreira! 👋
+### Hello, I'm <strong>Renan Moreira!</strong> 👋
 
+ - 💼 &nbsp;  Functions: <b>Developer</b> |<b> QA Analyst</b>
 
 
 
