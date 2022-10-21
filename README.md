@@ -2,7 +2,7 @@
 
 ##
 
- - 💼 &nbsp;  Functions: <b>Developer</b> |<b> QA Analyst</b>
+ - 💼 &nbsp;  Function: <b> QA Analyst</b>
 
 
 
