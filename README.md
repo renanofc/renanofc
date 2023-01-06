@@ -34,3 +34,6 @@
   <a href="https://www.linkedin.com/in/renan-moreira-489361250/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 </div>
+ 
+ #### Profile views counter
+![Visitor Count](https://profile-counter.glitch.me/{jonatasmfaria}/count.svg)
