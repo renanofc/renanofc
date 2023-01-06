@@ -35,5 +35,4 @@
 
 </div>
  
- # 📈 Statistics 📈
-![](https://komarev.com/ghpvc/?username=renanofc&color=447ff7&label=Visitor+count)
+
