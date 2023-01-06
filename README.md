@@ -35,5 +35,5 @@
 
 </div>
  
- #### Profile views counter
-![Visitor Count](https://profile-counter.glitch.me/{renanofc}/count.svg)
+ # 📈 Statistics 📈
+![](https://komarev.com/ghpvc/?username=renanofc&color=447ff7&label=Visitor+count)
