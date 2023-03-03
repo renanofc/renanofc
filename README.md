@@ -21,6 +21,8 @@
   <img align="center" alt="Renan-LUA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg">
     
    <img align="center" alt="Renan-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+ 
+ <img align="center" alt="Renan-postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
 
   <img align="center" alt="Renan-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="right" alt="1" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/870206199130361907/1025156868970123294/1.png">
