@@ -2,7 +2,7 @@
 
 ##
 
- - 💼 &nbsp;  Function: <b> QA Analyst</b>
+ - 💼 &nbsp;  Function: <b> Automated Test Analyst </b>
 
 
 
