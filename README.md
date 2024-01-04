@@ -2,7 +2,7 @@
 
 ##
 
- - 💼 &nbsp;  Function: <b> Automated Test Analyst </b>
+
 
 
 
