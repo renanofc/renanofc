@@ -1,4 +1,4 @@
-### Front-End Software Engineer!</strong> 💻
+### QA Analyst!</strong> 💻
 
 ##
 
