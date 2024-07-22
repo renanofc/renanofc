@@ -20,7 +20,6 @@
   <img align="center" alt="Renan-postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="MongoDB-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="Renan-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="right" alt="Renan-photo" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/809803750835224586/1246160588560924672/FsFQuzwXwAQ-B8u.png?ex=665b60fc&is=665a0f7c&hm=4ca78fe997d5578a83445428e238f302b86a6f094e829b86a3ce1a9d8ab554f0">
 </div>
 
 ##
