@@ -1,4 +1,4 @@
-### QA Analyst!</strong> 💻
+### Software Engineer!</strong> 💻
 
 ##
 
