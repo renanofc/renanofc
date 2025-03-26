@@ -57,29 +57,6 @@ Sou um Software Engineer com especialização em Qualidade de Software e SDET So
   <img align="center" alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
   <img align="center" alt="GitFlow" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
-
----
-
-## 💼 Experiência Profissional
-
-### **Software Engineer - Sunne Energias Renováveis** *(Jan 2024 - Dez 2024)*  
-
-Com minha experiência como **Software Engineer**, atuei no desenvolvimento em **Angular**, adotando uma abordagem proativa e detalhista para garantir a entrega de soluções de alta qualidade. Com foco nas melhores práticas da metodologia ágil, busquei continuamente melhorar a eficiência e a robustez das aplicações que desenvolvi.
-
-<br/>
-
-### **Quality Assurance Test Analyst - Fix Pay** *(Set 2023 - Jan 2024)*  
-
-Como Analista de Testes Automatizados na Fix Pay, atuei na criação e manutenção de **scripts de testes automatizados** utilizando **Cypress, Ruby e Go**. Trabalhei em estreita colaboração com a equipe de desenvolvimento para garantir a qualidade do produto por meio de testes rigorosos e eficientes. Implementamos uma abordagem de desenvolvimento ágil, o que permitiu entregas rápidas e iterações contínuas, melhorando a capacidade de resposta às mudanças e garantindo uma alta qualidade nos lançamentos.
-
-<br/>
-
-### **Quality Assurance Test Analyst - Credit2B** *(Set 2022 - Set 2023)*  
-
-Como Analista de Testes Automatizados na Credit2B, utilizei **Cypress** para executar testes abrangentes e trabalhei extensivamente com **Ruby e Go** para criar e manter **scripts de testes automatizados**. Minha atuação incluiu a colaboração próxima com a equipe de desenvolvimento para assegurar a qualidade do produto através de testes rigorosos e eficientes. Trabalhamos dentro de uma **metodologia ágil**, permitindo iterações contínuas e entregas rápidas, o que garantiu uma alta adaptabilidade às mudanças e a manutenção de altos padrões de qualidade nos lançamentos.
-
-<br/>
-
 ---
 
 📢 Para mais detalhes sobre minha experiência e certificações, me encontre no [LinkedIn](https://www.linkedin.com/in/renan-moreira-489361250/).
