@@ -57,6 +57,3 @@ Sou um Software Engineer com especialização em Qualidade de Software e SDET So
   <img align="center" alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
   <img align="center" alt="GitFlow" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
----
-
-📢 Para mais detalhes sobre minha experiência e certificações, me encontre no [LinkedIn](https://www.linkedin.com/in/renan-moreira-489361250/).
